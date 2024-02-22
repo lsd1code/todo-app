@@ -20,8 +20,11 @@ export default {
         'dark-grayish-blue-darkmode': 'hsl(234, 11%, 52%)',
         'very-dark-grayish-blue-darkmode': 'hsl(233, 14%, 35%)',
         'very-dark-grayish-blue-darkmode-': 'hsl(237, 14%, 26%)',
+        'gradient-left': 'hsl(192, 100%, 67%)',
+        'gradient-right': 'hsl(280, 87%, 65%)',
       }
     },
   },
+  darkMode: 'class',
   plugins: [],
 }
